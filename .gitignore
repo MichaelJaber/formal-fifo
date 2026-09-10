@@ -1,0 +1,16 @@
+#Editor settings
+.vscode/
+
+# Simulation outputs
+build/
+fifo_sim
+
+# SymbiYosys output directories
+formal/fifo/
+formal/fifo_prove/
+formal/fifo_cover/
+
+# Waveform files
+*.vcd
+*.fst
+*.gtkw
